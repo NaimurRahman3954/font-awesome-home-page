@@ -1,0 +1,49 @@
+body{
+   padding: 0;
+   margin: 0;
+   color: white;
+   font-family: poppins;
+   text-align: center;
+}
+
+header{
+   background-image: url(./madripoor.jpeg);
+   box-shadow:inset 0 0 0 2000px #00000070;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   margin: auto;
+   justify-content: center;
+   align-items: center;
+}
+
+h3{
+   font-size: 30px;
+   margin-top: -20px;
+}
+
+h3 span{
+   color: #FAB00C;
+}
+
+p{
+   font-size: 18px;
+}
+
+p span{
+   font-weight: bold;
+}
+
+.first{
+   background-color: #FAB00C;
+}
+
+button{
+   padding: 10px 20px;
+   border-radius: 5px;
+   border: none;
+   margin: 10px;
+   font-weight: bold;
+}
