@@ -7,7 +7,6 @@ body{
    position: relative;
    top: -16px;
    height: 100vh;
-   /* background-color: yellow; */
    background-image: url(./madripoor.jpeg);
    background-repeat: no-repeat;
    background-size: cover;
@@ -16,7 +15,6 @@ body{
 
 nav{
    height: 15vh;
-   /* background-color: #FAB00C; */
 }
 
 ul{
@@ -26,16 +24,13 @@ ul{
    gap: 40px;
    justify-content: end;
    padding-top: 50px;
-   /* background-color: yellow; */
    margin-right: auto;
    margin-left: auto;
 }
 
 .logo{
-   /* background-color: #FAB00C; */
    flex-grow: 9;
    margin: auto;
-   align-self: flex-start;
    text-align: left;
 }
 
@@ -45,7 +40,6 @@ header{
    justify-content: center;
    align-items: center;
    height: 85vh;
-   /* background-color: aquamarine; */
 }
 
 h3{
